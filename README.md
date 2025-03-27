@@ -1,4 +1,4 @@
-# Projet scan2Save : Scannez, Cucmulez et Économisez en Temps Réel avec SwiftUI
+# Projet Scan2Save : Scannez, Cucmulez et Économisez en Temps Réel avec SwiftUI
 
 ## Description
 
